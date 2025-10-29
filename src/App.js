@@ -2,6 +2,8 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Dashboard from './pages/Dashboard';
 import PageOne from './pages/PageOne';
 import PageTwo from './pages/PageTwo';
+import './App.css';
+
 
 function App() {
   return (

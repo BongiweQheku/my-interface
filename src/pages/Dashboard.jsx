@@ -12,6 +12,8 @@ function Dashboard() {
             <li>Recent activities</li>
             <li>Notifications</li>
         </ul>
+
+            <button onClick={() => alert('Dashboard button clicked!')}>Click Me</button>
     </div>
   
   );
