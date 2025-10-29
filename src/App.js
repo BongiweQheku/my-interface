@@ -6,7 +6,7 @@ import PageTwo from './pages/PageTwo';
 function App() {
   return (
     <Router>
-      <nav style={{ padding: '1rem', background: '#eee' }}>
+      <nav style={{ padding: '1rem', background: '#a71212ff' }}>
         <Link to="/" style={{ marginRight: '1rem' }}>Dashboard</Link>
         <Link to="/page-one" style={{ marginRight: '1rem' }}>Page One</Link>
         <Link to="/page-two">Page Two</Link>
